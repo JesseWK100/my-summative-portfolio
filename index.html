@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- Ensure proper scaling on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <!-- Link to custom CSS -->
+  <link rel="stylesheet" href="styles.css">
+  <!-- Link to Google Fonts for a modern typeface -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Fixed header with logo and responsive navigation -->
+  <header>
+    <div class="logo">MyPortfolio</div>
+    <nav>
+      <ul class="navbar">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+      <button id="menu-toggle">Menu</button>
+    </nav>
+  </header>
+
+  <!-- Hero section with a background image and overlay -->
+  <section id="home" class="hero">
+    <div class="hero-overlay">
+      <h1>
+        Jesse Kisaale Walusansa <br>
+        Welcome to My Portfolio
+      </h1>
+      <p>Innovative. Creative. Driven.</p>
+    </div>
+  </section>
+
+  <!-- Main content -->
+  <main>
+    <!-- About Section -->
+    <section id="about" class="section">
+      <div class="container">
+        <h2>About Me</h2>
+        <p>
+          I am a passionate and versatile individual with expertise in music and technology.
+          As a talented singer and pianist, I bring creativity and artistry to every performance.
+          Simultaneously, I am building a career in software engineering, honing my skills in web development and design.
+          My dedication to excellence and adaptability has been evident in both my professional and academic endeavors.
+        </p>
+      </div>
+    </section>
+    <section id="skills">
+      <h2>My Skills</h2>
+      <div class="skills-container">
+          <div class="skill-category">
+              <h3>Technical Skills</h3>
+              <ul>
+                  <li>Front-End Development</li>
+                  <li>Web Design</li>
+                  <li>UI/UX Design</li>
+              </ul>
+          </div>
+          <div class="skill-category">
+              <h3>Creative Skills</h3>
+              <ul>
+                  <li>Digital Marketing</li>
+                  <li>Writing</li>
+                  <li>Logo Design</li>
+              </ul>
+          </div>
+      </div>
+  </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="section">
+      <div class="container">
+        <h2>Experience</h2>
+        <div class="experience-cards">
+          <div class="card">
+            <h3>Supervisor & Monitor @ MHICS</h3>
+            <p>
+              Ensured adherence to curriculum guidelines and supported student progress.
+              Assisted students in their academic activities, fostering a productive learning environment.
+            </p>
+          </div>
+          <div class="card">
+            <h3>Assistant to principal @ MHICS</h3>
+            <p>
+              Provided administrative support to the principal, including scheduling and correspondence.
+              Assisted in the planning and execution of school events and activities.              
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section">
+      <div class="container">
+        <h2>Projects</h2>
+        <div class="projects-grid">
+          <div class="project-card">
+            <h3>Project One</h3>
+            <p>A groundbreaking web application that redefines user interaction.</p>
+          </div>
+          <div class="project-card">
+            <h3>Project Two</h3>
+            <p>Co-chaired a huge concert with the chaplain of the school and made it a success.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+      <div class="container">
+        <h2>Contact Me</h2>
+        <form id="contact-form">
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" placeholder="Your Name" required>
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="Your Email" required>
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" placeholder="Your Message" required></textarea>
+          </div>
+          <button type="submit" class="btn">Send Message</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 MyPortfolio. All Rights Reserved.</p>
+    </div>
+  </footer>
+
+  <!-- Link to custom JavaScript -->
+  <script src="script.js"></script>
+</body>
+</html>
