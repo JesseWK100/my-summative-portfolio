@@ -65,6 +65,7 @@ portfolio-website/
 └── README.md
 
 Usage
+
 Visit the website to:
 
 - Learn about my skills and areas of expertise.
