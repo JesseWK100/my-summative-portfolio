@@ -71,7 +71,7 @@ Visit the website to:
 - Explore detailed descriptions of my completed projects.
 - Send me a message via the contact form.
 
-To access the live version, visit: https://github.com/JesseWK100/my-summative-portfolio
+To access the live version, visit: https://github.com/JesseWK100/my-summative-portfolio/deployments/github-pages
 
 Responsive Design
 This portfolio is built to provide an optimal viewing experience across all devices:
