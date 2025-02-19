@@ -1,7 +1,7 @@
-##Portfolio Website
+Portfolio Website
 Welcome to my personal portfolio website! This project is a responsive and interactive web-based portfolio showcasing my skills, experience, projects, and contact information. Built using pure HTML, CSS, and JavaScript, this site is designed to be visually appealing, easy to navigate, and mobile-friendly.
 
-##Table of Contents
+Table of Contents
 1. Overview
 2. Features
 3. Technologies Used
@@ -12,7 +12,7 @@ Welcome to my personal portfolio website! This project is a responsive and inter
 8. Future Enhancements
 9. Contact
 
-##Overview
+Overview
 
 The portfolio website is designed to:
 
@@ -22,7 +22,7 @@ The portfolio website is designed to:
 
 The site demonstrates proficiency in front-end development, web design, and user experience principles.
 
-##Features
+Features
 
 Responsive Design: Adapts seamlessly to desktop, tablet, and mobile screens.
 Interactive Elements: Includes hover effects, animations, and dynamic content using JavaScript.
@@ -31,13 +31,13 @@ Projects Section: Displays completed projects with descriptions.
 Contact Form: Allows users to send messages directly from the site.
 Thematic Styling: Modern and creative design with consistent colors and typography.
 
-##Technologies Used
+Technologies Used
 
 HTML5: For semantic and accessible markup.
 CSS3: For layout, styling, and responsive design using media queries.
 JavaScript: For interactive functionality and dynamic effects.
 
-##Installation and Setup
+Installation and Setup
 
 To view or edit this project locally, follow these steps:
 
@@ -53,17 +53,16 @@ cd portfolio-website
 
 Open the index.html file in your preferred browser to view the website.
 
-##Project Structure
+Project Structure
 The project files are organized as follows:
 
 portfolio-website/
 ├── index.html      # Main HTML file
 ├── style.css       # Stylesheet for layout and design
 ├── script.js       # JavaScript file for interactivity
-├── assets/         # Directory for images and media
 └── README.md       # Documentation
 
-##Usage
+Usage
 Visit the website to:
 
 - Learn about my skills and areas of expertise.
@@ -72,21 +71,21 @@ Visit the website to:
 
 To access the live version, visit: GitHub Pages Link
 
-##Responsive Design
+Responsive Design
 This portfolio is built to provide an optimal viewing experience across all devices:
 
 Desktop: Full-width layout with detailed sections.
 Tablet: Adjusted layouts to fit medium-sized screens.
 Mobile: Stacked content and easy navigation for small screens.
 
-##Future Enhancements
+Future Enhancements
 Planned improvements include:
 
 - Adding animations to project thumbnails.
 - Incorporating a blog section for articles and tutorials.
 - Implementing a dark mode toggle.
 
-##Contact
+Contact
 If you have any questions or opportunities to discuss, feel free to contact me:
 
 Email: j.walusansa@alustudent.com
