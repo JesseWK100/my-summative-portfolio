@@ -1,4 +1,5 @@
 Portfolio Website
+
 Welcome to my personal portfolio website! This project is a responsive and interactive web-based portfolio showcasing my skills, experience, projects, and contact information. Built using pure HTML, CSS, and JavaScript, this site is designed to be visually appealing, easy to navigate, and mobile-friendly.
 
 Table of Contents
@@ -57,10 +58,11 @@ Project Structure
 The project files are organized as follows:
 
 portfolio-website/
-├── index.html      # Main HTML file
-├── style.css       # Stylesheet for layout and design
-├── script.js       # JavaScript file for interactivity
-└── README.md       # Documentation
+
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
 Usage
 Visit the website to:
