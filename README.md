@@ -1,4 +1,4 @@
-Portfolio Website
+##Portfolio Website##
 
 Welcome to my personal portfolio website! This project is a responsive and interactive web-based portfolio showcasing my skills, experience, projects, and contact information. Built using pure HTML, CSS, and JavaScript, this site is designed to be visually appealing, easy to navigate, and mobile-friendly.
 
@@ -71,7 +71,7 @@ Visit the website to:
 - Explore detailed descriptions of my completed projects.
 - Send me a message via the contact form.
 
-To access the live version, visit: GitHub Pages Link
+To access the live version, visit: https://github.com/JesseWK100/my-summative-portfolio
 
 Responsive Design
 This portfolio is built to provide an optimal viewing experience across all devices:
