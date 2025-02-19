@@ -75,13 +75,15 @@ Visit the website to:
 To access the live version, visit: https://github.com/JesseWK100/my-summative-portfolio/deployments/github-pages
 
 Responsive Design
+
 This portfolio is built to provide an optimal viewing experience across all devices:
 
-Desktop: Full-width layout with detailed sections.
-Tablet: Adjusted layouts to fit medium-sized screens.
-Mobile: Stacked content and easy navigation for small screens.
+- Desktop: Full-width layout with detailed sections.
+- Tablet: Adjusted layouts to fit medium-sized screens.
+- Mobile: Stacked content and easy navigation for small screens.
 
 Future Enhancements
+
 Planned improvements include:
 
 - Adding animations to project thumbnails.
@@ -89,6 +91,7 @@ Planned improvements include:
 - Implementing a dark mode toggle.
 
 Contact
+
 If you have any questions or opportunities to discuss, feel free to contact me:
 
 Email: j.walusansa@alustudent.com
